@@ -1,0 +1,14 @@
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\bin\Debug\netcoreapp3.1\ConvertToRoman.exe
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\bin\Debug\netcoreapp3.1\ConvertToRoman.deps.json
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\bin\Debug\netcoreapp3.1\ConvertToRoman.runtimeconfig.json
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\bin\Debug\netcoreapp3.1\ConvertToRoman.runtimeconfig.dev.json
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\bin\Debug\netcoreapp3.1\ConvertToRoman.dll
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\bin\Debug\netcoreapp3.1\ConvertToRoman.pdb
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\obj\Debug\netcoreapp3.1\ConvertToRoman.csproj.AssemblyReference.cache
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\obj\Debug\netcoreapp3.1\ConvertToRoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\obj\Debug\netcoreapp3.1\ConvertToRoman.AssemblyInfoInputs.cache
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\obj\Debug\netcoreapp3.1\ConvertToRoman.AssemblyInfo.cs
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\obj\Debug\netcoreapp3.1\ConvertToRoman.csproj.CoreCompileInputs.cache
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\obj\Debug\netcoreapp3.1\ConvertToRoman.dll
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\obj\Debug\netcoreapp3.1\ConvertToRoman.pdb
+C:\Users\Diego Beras\source\repos\ConvertToRoman\ConvertToRoman\obj\Debug\netcoreapp3.1\ConvertToRoman.genruntimeconfig.cache
